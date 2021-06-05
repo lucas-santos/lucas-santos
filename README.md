@@ -5,7 +5,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucas-santos&show_icons=true&theme=radical" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucassantos)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucassantos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
